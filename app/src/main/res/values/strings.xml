@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PokemonProject</string>
+    <string name="error">Error</string>
+    <string name="back">Back</string>
+    <string name="no_pokemon_found">No Pokemon Found!!</string>
+    <string name="sort_by_hp">Sort by Hp</string>
+    <string name="sort_by_level">Sort by Level</string>
+    <string name="name">Name : %1$s</string>
+    <string name="type">Type : %1$s</string>
+    <string name="level">Level : %1$s</string>
+    <string name="hp">Hp : %1$s</string>
+    <string name="subtype">SubType : %1$s</string>
+    <string name="attack_text">Attack Text : %1$s</string>
+    <string name="attack_name">Attack Name : %1$s</string>
+    <string name="attack_damage">Attack Damage : %1$s</string>
+    <string name="weekness_type">Weekness Type :%1$s</string>
+    <string name="weekness_value">Weekness Value : %1$s</string>
+    <string name="ability_text">Ability Text : %1$s</string>
+    <string name="ability_name">Ability Name : %1$s</string>
+    <string name="ability_type">Ability Type : %1$s</string>
+    <string name="resistance_type">Resistance Type : %1$s</string>
+    <string name="resistance_value">Resistance Value : %1$s</string>
+</resources>
